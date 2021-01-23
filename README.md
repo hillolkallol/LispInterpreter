@@ -58,7 +58,7 @@ The output file can be opened from the directory of the project with the command
 
 Tested Input & Output
 =====================
-'''
+```java
 Test Case	Output
 ---------   ---------
 (define r 10)	r
@@ -144,4 +144,4 @@ dynamic_add
 dynamic_call_add
 6
 (quit)	Bye!
-'''
+```
